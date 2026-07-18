@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "D:\\python_workspace\\Quant\\.venv\\liangwen2\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.env.windows": {
+    "VIRTUAL_ENV": "D:\\python_workspace\\Quant\\.venv\\liangwen2",
+    "PATH": "D:\\python_workspace\\Quant\\.venv\\liangwen2\\Scripts;${env:PATH}"
+  }
+}
